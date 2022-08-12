@@ -1,10 +1,30 @@
-## Olá me chamo Alan, seja bem-vindo(a) ao meu perfil😁
+# Hi Dear, my name is Alan 
+## A boy in love with the IT area since he was a child, making the transition from Hardware to Software.
+### 
+<details>
+ <summary markdown="span">Tradução/Transcription PT-BR</summary>
+  <br>
+  Um garoto apaixonado pela área de Ti desde criança, fazendo a transição do Hardware para o Software.
+  <br>
+</details>
+ 
+## Constantly learning something new, always willing to face a new challenge daily
 
- <div>
+<details>
+ <summary markdown="span">Tradução/Transcription PT-BR</summary>
+  <br>
+  Constantemente, aprendendo algo novo, sempre disposto a encarar um novo desafio diariamente
+  <br>
+</details>
+ 
+
+ ### <div>
   <a href="https://github.com/DevAlanM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevAlanM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlanM&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+### My Hard Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -14,7 +34,7 @@
  
  <br>
  
-  ### Minhas Redes Sociais !!
+  ### My Social Networks !!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
