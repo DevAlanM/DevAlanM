@@ -2,7 +2,7 @@
 ## A boy in love with the IT area since he was a child, making the transition from Hardware to Software.
 ### 
 <details>
- <summary markdown="span">Tradução/Transcription PT-BR</summary>
+ <summary markdown="span">Tradução/Translation PT-BR</summary>
   <br>
   Um garoto apaixonado pela área de Ti desde criança, fazendo a transição do Hardware para o Software.
   <br>
@@ -11,7 +11,7 @@
 ## Constantly learning something new, always willing to face a new challenge daily
 
 <details>
- <summary markdown="span">Tradução/Transcription PT-BR</summary>
+ <summary markdown="span">Tradução/Translation PT-BR</summary>
   <br>
   Constantemente, aprendendo algo novo, sempre disposto a encarar um novo desafio diariamente
   <br>
