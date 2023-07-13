@@ -1,4 +1,4 @@
-# Hi Dear, my name is Alan 
+# Hi, my name is Alan 
 ## A boy in love with the IT area since he was a child, making the transition from Hardware to Software.
 ### 
 <details>
