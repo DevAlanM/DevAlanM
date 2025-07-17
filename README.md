@@ -1,4 +1,3 @@
-
 <h1 align="center">Alan Martins de Oliveira </h1>
  <p align="center">
     <a href="https://www.instagram.com/allanm_oficial/" alt="Instagram">
@@ -7,28 +6,28 @@
       <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeld3v/">
     </a>
  </p>
- 
- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rafaeld3v&repo=rafaeld3v&countColor=green)
 
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=DevAlanM&repo=DevAlanM&countColor=green)
  
 <div>
- <img align="right" src="./images/logo-hello.png" width="225"/>
-  <p> Hi, my name is Alan </p>
-  <p> A boy in love with the IT area since he was a child, making the transition from Hardware to Software. </p>
-  <details>
-   <summary markdown="span">Tradução/Translation PT-BR</summary>
-    <br>
-     Um garoto apaixonado pela área de Ti desde criança, fazendo a transição do Hardware para o Software.
-    <br>
-  </details>
-  <p>Constantly learning something new, always willing to face a new challenge daily</p>
+ <img align="right" src="https://raw.githubusercontent.com/DevAlanM/DevAlanM/main/images/logo photo.png" width="130px" />
+
+ <p> Hi, my name is Alan 🌵 </p>
+ <p> A boy in love with the IT area since he was a child, making the transition from Hardware to Software. </p>
  <details>
   <summary markdown="span">Tradução/Translation PT-BR</summary>
    <br>
-    Constantemente, aprendendo algo novo, sempre disposto a encarar um novo desafio diariamente
+    Um garoto apaixonado pela área de TI desde criança, fazendo a transição do Hardware para o Software.
    <br>
  </details>
-</div> 
+ <p>Constantly learning something new, always willing to face a new challenge daily 🎯</p>
+ <details>
+  <summary markdown="span">Tradução/Translation PT-BR</summary>
+   <br>
+    Constantemente aprendendo algo novo, sempre disposto a encarar um novo desafio diariamente. 🚀
+   <br>
+ </details>
+</div>
 
 ##
 
