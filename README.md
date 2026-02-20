@@ -1,9 +1,9 @@
 <h1 align="center">Alan Martins de Oliveira </h1>
  <p align="center">
     <a href="https://www.instagram.com/allanm_oficial/" alt="Instagram">
-     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaeld3v/"/></a>
+     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/allanm_oficial/"/></a>
     <a href="https://www.linkedin.com/in/devalanm/">
-      <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeld3v/">
+      <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devalanm/">
     </a>
  </p>
 
